@@ -20,7 +20,9 @@ def bonus
    }
   }
 
-  #code your solution here:
+bonus[0][0][2][2] = "dead"
+
+bonus[0][0][2][2] = "dead"
 
   
 
