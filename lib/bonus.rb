@@ -20,9 +20,9 @@ def bonus
    }
   }
 
-bonus[0][0][2][2] = "dead"
+epic_tragedy[0][2][2] = "dead"
 
-bonus[0][0][2][2] = "dead"
+epic_tragedy[0][2][2] = "dead"
 
   
 
