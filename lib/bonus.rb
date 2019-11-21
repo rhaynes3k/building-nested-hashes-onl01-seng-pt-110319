@@ -20,9 +20,9 @@ def bonus
    }
   }
 
-epic_tragedy[:montague][:hero][:name] = "Michael Jordan" = "dead"
+epic_tragedy[:montague][:hero][:status] = "dead"
 
-epic_tragedy[0][2][2] = "dead"
+epic_tragedy
 
   
 
